@@ -13,6 +13,7 @@
 		"@ngx-translate/core": "^9.1.1",
 		"classlist.js": "^1.1.20150312",
 		"core-js": "^2.5.1",
+		"handlebars": "^4.5.3",
 		"lodash": "^4.17.15",
 		"lodash.mergewith": "^4.6.2",
 		"lodash.template": "^4.5.0",
