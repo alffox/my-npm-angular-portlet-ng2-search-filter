@@ -22,7 +22,7 @@
 		"minimist": "^1.2.5",
 		"ng2-search-filter": "^0.4.7",
 		"rxjs": "^5.5.2",
-		"serialize-javascript": "^2.1.2",
+		"serialize-javascript": "^3.1.0",
 		"web-animations-js": "^2.3.2",
 		"ws": "^7.2.3",
 		"zone.js": "0.8.12"
